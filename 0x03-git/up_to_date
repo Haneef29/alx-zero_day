@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 git pull https://github.com/Haneef29/alx-zero_day.git
+=======
+Updating 6cf0ec5..9676f50
+Fast-forward
+ 0x03-git/README.md | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+>>>>>>> 1c10a45a72c419d865a584f02ac62a09187ff0fa
